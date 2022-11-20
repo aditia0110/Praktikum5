@@ -129,7 +129,9 @@ Berikut ini adalah Flowchart program yang akan kita buat :
 
 <img width="767" alt="hasil akhir praktikum 5" src="https://user-images.githubusercontent.com/115475348/202885346-aaa6c115-b996-4237-8259-70d6429c04bf.png">
 
+Demikianlah sedikit penjelasan dari saya, kurang lebihnya mohon maaf
 
+Terimakasih
 
 
 
